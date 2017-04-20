@@ -1,6 +1,8 @@
 <link rel="stylesheet" type="text/css" href="css/anaesthetic_drug_colours.css">
 <link rel="stylesheet" type="text/css" href="css/sticker_styling.css">
 
+JP's fork, previews here: https://djuhn.github.io/drug-labels/
+
 #AAGBI Drug Labelling Colours CSS Library
 * This is a library of CSS classes which allow the correct AAGBI standard labelling colours to be applied to HTML elements
 * It is a by product of NHS Hack Day \#13 London (May 2016), and could not have existed without the help and inspiration of others in the Anaesthesia Monitor project group, particularly Jakob Mathiszig-Lee, Fred Kingham, and David Miller.
